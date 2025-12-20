@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GoogleSheets_1",
+    "type": "oauth2",
+    "source": "",
+    "sourceMetadata": {
+      "providerName": "google_sheet"
+    },
+    "uid": "au2a685c5137cebab18ba0175739be9e0f8b7f9a69",
+    "data": {
+      "auth_type": "oauth2",
+      "provider": "google_sheet",
+      "client_id": "",
+      "client_secret": "",
+      "access_token": "",
+      "refresh_token": "",
+      "refresh_url": "https://accounts.google.com/o/oauth2/token",
+      "grant_type": "refresh_token",
+      "expires_in": 3359,
+      "scope": "https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/spreadsheets",
+      "token_type": "Bearer",
+      "refresh_token_expires_in": 604727,
+      "_life_end_at": 1766258680923,
+      "_resources": {}
+    }
+  }
+]

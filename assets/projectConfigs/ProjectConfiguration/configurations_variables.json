@@ -1,0 +1,26 @@
+[
+  {
+    "key": "PP_1",
+    "value": "PV_1",
+    "isPassword": false,
+    "isRequired": true,
+    "uid": "fl5d1156369918762c36266d",
+    "type": "projectParameter"
+  },
+  {
+    "key": "Prjct_V1",
+    "value": "test",
+    "packageName": "Wmio_test_accountProject",
+    "type": "projectVariable",
+    "isPassword": false,
+    "isGlobal": false
+  },
+  {
+    "key": "Prjct_v2",
+    "value": null,
+    "packageName": "Wmio_test_accountProject",
+    "type": "projectVariable",
+    "isPassword": true,
+    "isGlobal": true
+  }
+]
