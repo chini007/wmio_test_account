@@ -16,10 +16,10 @@
     "refresh_url": "https://accounts.google.com/o/oauth2/token",
     "grant_type": "refresh_token",
     "expires_in": 3359,
-    "scope": "https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/spreadsheets",
+    "scope": "https://www.googleapis.com/auth/spreadsheets https://www.googleapis.com/auth/drive",
     "token_type": "Bearer",
-    "refresh_token_expires_in": 598008,
-    "_life_end_at": 1766265399805,
+    "refresh_token_expires_in": 594647,
+    "_life_end_at": 1766268760150,
     "_resources": {}
   }
 }
