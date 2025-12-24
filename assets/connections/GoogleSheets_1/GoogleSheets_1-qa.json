@@ -18,8 +18,8 @@
     "expires_in": 3359,
     "scope": "https://www.googleapis.com/auth/spreadsheets https://www.googleapis.com/auth/drive",
     "token_type": "Bearer",
-    "refresh_token_expires_in": 591287,
-    "_life_end_at": 1766272120431,
+    "refresh_token_expires_in": 268699,
+    "_life_end_at": 1766594708906,
     "_resources": {}
   }
 }
